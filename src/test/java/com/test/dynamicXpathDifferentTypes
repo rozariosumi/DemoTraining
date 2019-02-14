@@ -1,4 +1,0 @@
-1. googleAutoSuggestion = "//ul[@role='listbox']//li/descendant::div[@class='sbl1']"
-2. amazon signin= "//div[@id='nav-tools']//a//following-sibling::a[@id='nav-link-accountList']"
-3.driver.findElement(By.linkText("Sign in"))
-4.free crm Save button in Contact>New Contact>: //div[@id='existingCampaignLayer']//*/input[@type='submit' and @value='Save'] 
